@@ -32,7 +32,7 @@ Also note that I used CrossEntropyLoss for my loss criteria.
 
 **Results**
 
-The final training accuracy of my model was about 50.5%. On the other hand, the final validation accuracy of the model was about 49.7%. 
+The final training accuracy of my model was about 50.5%. On the other hand, the final validation accuracy of the model was about 50.0%. 
 
 **Discussion**
 
